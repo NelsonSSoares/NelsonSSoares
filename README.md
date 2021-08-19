@@ -11,13 +11,13 @@ My name is <strong> Nelson de Sousa </strong>, I am <strong> 27 years old </stro
 I love Technology, and I'm always looking to learn new things 😄. <br>
 I currently study <strong>Computer Science</strong>, and <strong>Web Development</strong>. <br>
 Please feel free to explore my portfolio! 😁 <br>
-
+##
  <div>
   <a href="https://github.com/NelsonSSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonSSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonSSoares&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
-
+##
 <div style="display: inline-block"><br>
    <img align="center" alt="Nel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Nel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
