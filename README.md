@@ -1,4 +1,8 @@
-
+### Olá, Bem-Vindo ao meu Perfil!! 😊
+Meu Nome é Nelson de Sousa, tenho 27 anos e moro na cidade de São Paulo.
+Amo Tecnologia, e estou sempre procurando aprender coisas novas 😄.
+Atualmente estudo Ciência da Computação, e Desenvolvimento Web.
+Por favor, sinta-se avontade para explorar meu portifólio! 😁
  <div>
   <a href="https://github.com/NelsonSSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonSSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
