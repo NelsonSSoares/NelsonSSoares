@@ -1,3 +1,4 @@
+<div alig="center">
 ### Olá, Bem-Vindo ao meu Perfil!! 😊
 Meu Nome é <strong>Nelson de Sousa</strong>, tenho <strong>28 anos</strong> e moro na cidade de <strong>São Paulo.</strong><br>
 Amo Tecnologia, e estou sempre procurando aprender coisas novas 😄.<br>
@@ -12,6 +13,7 @@ I love Technology, and I'm always looking to learn new things 😄. <br>
 I currently study <strong>Computer Science</strong>, and <strong>Web Development</strong>. <br>
 Please feel free to explore my portfolio! 😁 <br>
 ##
+</div>
  <div align="center">
   <a href="https://github.com/NelsonSSoares" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonSSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
