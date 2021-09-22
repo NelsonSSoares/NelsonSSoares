@@ -37,5 +37,8 @@ Please feel free to explore my portfolio! 😁 <br>
     <a href="https://api.whatsapp.com/send?phone=+5511953572284"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
 
-  
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
 
