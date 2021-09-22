@@ -38,7 +38,7 @@ Please feel free to explore my portfolio! 😁 <br>
   </div>
 
   <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/NelsonSSoares/count.svg" />
  </p>
 
 
