@@ -3,7 +3,7 @@
 Meu Nome é <strong>Nelson de Sousa</strong>, tenho <strong>28 anos</strong> e moro na cidade de <strong>São Paulo.</strong><br>
 Amo Tecnologia, e estou sempre procurando aprender coisas novas 😄.<br>
 Atualmente estudo <strong>Ciência da Computação</strong>, e <strong>Desenvolvimento Web</strong>.<br>
-Por favor, sinta-se avontade para explorar meu portifólio! 😁<br>
+Por favor, sinta-se avontade para explorar meu portfólio! 😁<br>
 
 ##
 
