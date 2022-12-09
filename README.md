@@ -8,7 +8,6 @@ Por favor, sinta-se avontade para explorar meu portfólio! 😁<br>
 
 ##
 
-
 ### Hello, Welcome to my Profile !! 😊
 My name is <strong> Nelson de Sousa </strong>, I am <strong> 29 years old </strong> and I live in the city of <strong> São Paulo. </strong> <br>
 I love Technology, and I'm always looking to learn new things 😄. <br>
