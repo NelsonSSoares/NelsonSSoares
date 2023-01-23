@@ -17,8 +17,8 @@ Please feel free to explore my portfolio! 😁 <br>
 
  <div align="center">
   <a href="https://github.com/NelsonSSoares" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonSSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonSSoares&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonssoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonssoares&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline-block" align="center"><br>
