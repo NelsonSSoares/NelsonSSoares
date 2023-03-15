@@ -21,6 +21,7 @@ Please feel free to explore my portfolio! 😁 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonSSoares&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
+ 
 <div style="display: inline-block" align="center"><br>
    <img align="center" alt="Nel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Nel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
