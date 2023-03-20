@@ -1,5 +1,4 @@
 
-
 ### Olá, Bem-Vindo ao meu Perfil!! 😊
 Meu Nome é <strong>Nelson de Sousa</strong>, tenho <strong>29 anos</strong> e moro na cidade de <strong>São Paulo.</strong><br>
 Amo Tecnologia, e estou sempre procurando aprender coisas novas 😄.<br>
@@ -20,8 +19,8 @@ Please feel free to explore my portfolio! 😁 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonSSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonSSoares&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
-
  
+
 <div style="display: inline-block" align="center"><br>
    <img align="center" alt="Nel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Nel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,8 +40,7 @@ Please feel free to explore my portfolio! 😁 <br>
 </div>
 
   ##
-  
-  
+ 
   <div align="center">
     <a href = "mailto:devnelsonssoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/nelsonssoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
