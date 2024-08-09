@@ -28,6 +28,7 @@ Please feel free to explore my portfolio! 😁 <br>
    <img align="center" alt="Nel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
    <img align="center" alt="Nel-ag" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Nel-sp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Nel-sp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
    <img align="center" alt="Nel-Jq" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
    <img align="center" alt="Nel-rc" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Nel-Bt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
