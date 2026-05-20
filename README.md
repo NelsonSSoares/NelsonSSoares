@@ -1,6 +1,6 @@
 
 ### Olá, Bem-Vindo ao meu Perfil!! 😊
-Meu Nome é <strong>Nelson de Sousa</strong>, tenho <strong>31 anos</strong> e moro na cidade de <strong>São Paulo.</strong><br>
+Meu Nome é <strong>Nelson de Sousa</strong>, tenho <strong>32 anos</strong> e moro na cidade de <strong>São Paulo.</strong><br>
 Amo Tecnologia, e estou sempre procurando aprender coisas novas 😄.<br>
 Formado em <strong>Ciência da Computação</strong>, e <strong>Desenvolvimento Web</strong>.<br>
 Por favor, sinta-se avontade para explorar meu portfólio! 😁<br>
@@ -9,7 +9,7 @@ Por favor, sinta-se avontade para explorar meu portfólio! 😁<br>
 ##
 
 ### Hello, Welcome to my Profile !! 😊
-My name is <strong> Nelson de Sousa </strong>, I am <strong> 31 years old </strong> and I live in the city of <strong> São Paulo. </strong> <br>
+My name is <strong> Nelson de Sousa </strong>, I am <strong> 32 years old </strong> and I live in the city of <strong> São Paulo. </strong> <br>
 I love Technology, and I'm always looking to learn new things 😄. <br>
 Graduated in <strong>Computer Science</strong>, and <strong>Web Development</strong>. <br>
 Please feel free to explore my portfolio! 😁 <br>
